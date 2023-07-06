@@ -1,0 +1,2 @@
+<a href="https://github.com/giabao2807/github-readme-stats"><img alt="anhphi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=foxxy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/giabao2807/github-readme-stats"><img alt="giabao2807's Top Languages" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=foxxy&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="anhphi-stats" /></a>
