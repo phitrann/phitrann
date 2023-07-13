@@ -1,6 +1,7 @@
 Bonjour 👋 I'm Tran Hoang Anh Phi.
 
 I'm a 3rd-year Data Science Student at Ho Chi Minh City University of Science.
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 <a href="https://github.com/foxxy-hcmus/github-readme-stats"><img alt="anhphi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=foxxy-hcmus&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
