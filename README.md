@@ -5,7 +5,7 @@ I'm a 3rd-year Data Science Student at Ho Chi Minh City University of Science.
 
 
 <a href="https://github.com/foxxy-hcmus/github-readme-stats"><img alt="foxxy's Github Stats" src="https://github-readme-stats-foxxy.vercel.app/api?username=foxxy-hcmus&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/foxxy-hcmus/github-readme-stats"><img alt="foxxy's Top Languages" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=foxxy-hcmus&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="anhphi-stats" /></a>
+  <a href="https://github.com/foxxy-hcmus/github-readme-stats"><img alt="foxxy's Top Languages" src="https://github-readme-stats-foxxy.vercel.app/api/top-langs/?username=foxxy-hcmus&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="anhphi-stats" /></a>
 
 
 ## Contact Info
