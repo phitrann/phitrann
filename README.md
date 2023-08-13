@@ -1,6 +1,6 @@
 Bonjour 👋 I'm Tran Hoang Anh Phi.
 
-I'm a 3rd-year Data Science Student at Ho Chi Minh City University of Science.
+I'm a 4rd-year Data Science Student at Ho Chi Minh City University of Science.
 
 
 
