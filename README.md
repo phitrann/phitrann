@@ -13,7 +13,7 @@ I am currently a senior Data Science student at the **Ho Chi Minh City Universit
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Phi+Tran" alt="Phi" /></a>
-  <a href="https://github.com/phitrann/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=GenAI/MLOps/Research;AI%20Engineer%20with%201%20year%20of%20experience;Good%20things%20take%20time&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  <a href="https://github.com/phitrann/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=GenAI/MLOps/LLM;AI%20Engineer%20with%201%20year%20of%20experience;Good%20things%20take%20time&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 ## Contact Info
