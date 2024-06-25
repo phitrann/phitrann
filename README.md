@@ -5,8 +5,8 @@ I am currently a senior Data Science student at the **Ho Chi Minh City Universit
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=phitrann&theme=dark" /></a>
-  <a href="https://github.com/phitrann/github-readme-stats"><img alt="Phi's Github Stats" src="https://github-readme-stats-phitrann.vercel.app/api?username=phitrann&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/phitrann/github-readme-stats"><img alt="Phi's Top Languages" src="https://github-readme-stats-phitrann.vercel.app/api/top-langs/?username=phitrann&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="anhphi-stats" /></a>
+  <a href="https://github.com/phitrann/github-readme-stats"><img alt="Phi's Github Stats" src="https://github-readme-stats-phi.vercel.app/api?username=phitrann&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/phitrann/github-readme-stats"><img alt="Phi's Top Languages" src="https://github-readme-stats-phi.vercel.app/api/top-langs/?username=phitrann&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="anhphi-stats" /></a>
 </div>
 
 
