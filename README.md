@@ -1,6 +1,6 @@
 ## Bonjour 👋 I'm Tran Hoang Anh Phi
 
-I am currently a senior Data Science student at the **Ho Chi Minh City University of Science** and an AI Engineer at **Uniquify Inc.**
+I am currently a senior Data Science student at the **Ho Chi Minh City University of Science** and an AI Engineer at **Viettel High Tech**
 
 
 <div align="center">
