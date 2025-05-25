@@ -13,7 +13,7 @@ I am currently an AI Engineer at **Viettel High Tech**, a member of Viettel Grou
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Phi+Tran" alt="Phi" /></a>
-  <a href="https://github.com/phitrann/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=GenAI/MLOps/LLM;AI%20Engineer%20with%201%20year%20of%20experience;Good%20things%20take%20time&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  <a href="https://github.com/phitrann/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Specialized%20in%20RAG%20Systems%2C%20Efficient%20LLMs%2C%20and%20AI%20Agents;AI%20Engineer%20with%20a%20focus%20on%20practical%20AI%20solutions;Driven%20by%20curiosity%20and%20a%20passion%20for%20innovation&font=Fira%20Code&center=true&width=800&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 ## Contact Info
