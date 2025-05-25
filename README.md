@@ -1,6 +1,6 @@
 ## Bonjour 👋 I'm Tran Hoang Anh Phi
 
-I am currently a senior Data Science student at the **Ho Chi Minh City University of Science** and an AI Engineer at **Viettel High Tech**
+I am currently an AI Engineer at **Viettel High Tech**, a member of Viettel Group, specializing in Natural Language Processing (NLP) and Generative AI.
 
 
 <div align="center">
