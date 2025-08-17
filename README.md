@@ -18,4 +18,5 @@ I am currently an AI Engineer at [**Viettel High Tech**](https://viettelhightech
 
 ## Contact Info
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/phitrann)
-
+[<img align="left" alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/foxxy.HCMUS/)
+[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/foxxy_hm/)
