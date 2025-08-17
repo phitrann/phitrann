@@ -1,6 +1,6 @@
 ## Bonjour 👋 I'm Tran Hoang Anh Phi
 
-I am currently an AI Engineer at **Viettel High Tech**, a member of Viettel Group, specializing in Natural Language Processing (NLP) and Generative AI.
+I am currently an AI Engineer at [**Viettel High Tech**](https://viettelhightech.vn/), a member of [**Viettel Group**](https://viettel.com.vn/), specializing in Natural Language Processing (NLP) and Generative AI.
 
 
 <div align="center">
